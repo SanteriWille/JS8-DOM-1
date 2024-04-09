@@ -1,0 +1,22 @@
+h4 {
+  display: inline-block;
+  width: 7rem;
+  padding: 5px 0;
+  border: 2px solid blue;
+  border-radius: 5px;
+  text-align: center;
+}
+
+#tall1 {
+  margin-right: 1.2rem;
+}
+
+button {
+  width: 7rem;
+  padding: 8px 0;
+  background: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
